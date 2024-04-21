@@ -24,17 +24,19 @@ Check out the live demo of the app [here](https://c0des-by-sagar.github.io/kitte
 5. Open your browser and visit `http://localhost:3000` to view the app.
 
 **Adding your name to the Kittens List:**
-1. Input your name in the `robots.js` file inside the `container` folder of the `src` folder.
-2. Format of entering your name should be:
+1. Fork the repository
+4. Create a branch of the repo: `git checkout -b newbranch`
+3. Input your name in the `robots.js` file inside the `container` folder of the `src` folder.
+5. Format of entering your name should be:
 `{
   id: [proper serial number],
   name: 'Your Name',
   username: 'Your Username',
   email: 'random email of yours'
 },`
-3. Add the changes made to the repo: `git add .`
-4. Commit the changes with a proper message: `git commit -m "I added my name to the robots.js list"`
-5. Push the changes to the origin: `git push origin`
+6. Add the changes made to the repo: `git add .`
+7. Commit the changes with a proper message: `git commit -m "I added my name to the robots.js list"`
+8. Push the changes to the origin: `git push origin newbranch`
 
 **Usage:**
 1. Enter a kitten name in the search bar.
