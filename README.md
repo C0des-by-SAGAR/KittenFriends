@@ -2,7 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[preview.png]
+---
+
+**Preview:**
+
+![Kitten Friends Preview](preview.png)
+
+---
 
 **Kitten Friends**
 
