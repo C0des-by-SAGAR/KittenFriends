@@ -23,20 +23,61 @@ Check out the live demo of the app [here](https://c0des-by-sagar.github.io/kitte
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the app.
 
-**Adding your name to the Kittens List:**
-1. Fork the repository
-4. Create a branch of the repo: `git checkout -b newbranch`
-3. Input your name in the `robots.js` file inside the `container` folder of the `src` folder.
-5. Format of entering your name should be:
-`{
-  id: [proper serial number],
-  name: 'Your Name',
-  username: 'Your Username',
-  email: 'random email of yours'
-},`
-6. Add the changes made to the repo: `git add .`
-7. Commit the changes with a proper message: `git commit -m "I added my name to the robots.js list"`
-8. Push the changes to the origin: `git push origin newbranch`
+---
+
+**Adding Your Name to the Kittens List:**
+
+If you'd like to see your name among the friendly kitten enthusiasts in our app, follow these simple steps:
+
+1. **Fork the Repository:**
+   Start by forking the project repository on GitHub. This will create a copy of the project under your GitHub account, allowing you to make changes without affecting the original repository.
+
+2. **Create a New Branch:**
+   Once you've forked the repository, create a new branch where you'll make your changes. This keeps your work isolated and makes it easier to manage contributions.
+
+   ```bash
+   git checkout -b newbranch
+   ```
+
+3. **Modify the `robots.js` File:**
+   Navigate to the `src/container` folder within the project directory and locate the `robots.js` file. Open it in your preferred text editor.
+
+4. **Add Your Information:**
+   In the `robots.js` file, follow the existing format to add your information to the list of kitten enthusiasts. Make sure to replace `[proper serial number]`, `'Your Name'`, `'Your Username'`, and `'random email of yours'` with your own details.
+
+   ```javascript
+   {
+     id: [proper serial number],
+     name: 'Your Name',
+     username: 'Your Username',
+     email: 'random email of yours'
+   },
+   ```
+
+5. **Save Your Changes:**
+   After adding your information, save the `robots.js` file.
+
+6. **Stage and Commit Your Changes:**
+   Use Git to stage and commit your changes with a descriptive message.
+
+   ```bash
+   git add .
+   git commit -m "Added my name to the robots.js list"
+   ```
+
+7. **Push Your Changes:**
+   Once you've committed your changes, push them to your forked repository on GitHub.
+
+   ```bash
+   git push origin newbranch
+   ```
+
+8. **Submit a Pull Request:**
+   Finally, navigate to your forked repository on GitHub and submit a pull request. Provide a clear description of the changes you've made and any relevant context.
+
+Once your pull request is reviewed and accepted, your name will be proudly displayed among our esteemed kitten enthusiasts in the app!
+
+---
 
 **Usage:**
 1. Enter a kitten name in the search bar.
