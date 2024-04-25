@@ -22,7 +22,7 @@ Kitten Friends is a simple React application that allows users to search for cut
 - Fetches data from the [Kitten API](https://thecatapi.com/).
 
 **Demo:**
-Check out the live demo of the app [here](https://c0des-by-sagar.github.io/kittenfriends/).
+Check out the live demo of the app [kittenfriends](https://c0des-by-sagar.github.io/kittenfriends/).
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/C0des-by-SAGAR/kittenfriends.git`
