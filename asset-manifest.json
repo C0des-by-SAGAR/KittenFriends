@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kittenfriends-hooks/static/css/main.7c9bc62e.css",
-    "main.js": "/kittenfriends-hooks/static/js/main.1535dcab.js",
-    "static/js/453.d88c1084.chunk.js": "/kittenfriends-hooks/static/js/453.d88c1084.chunk.js",
-    "static/media/SEGA.woff": "/kittenfriends-hooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/kittenfriends-hooks/index.html",
-    "main.7c9bc62e.css.map": "/kittenfriends-hooks/static/css/main.7c9bc62e.css.map",
-    "main.1535dcab.js.map": "/kittenfriends-hooks/static/js/main.1535dcab.js.map",
-    "453.d88c1084.chunk.js.map": "/kittenfriends-hooks/static/js/453.d88c1084.chunk.js.map"
+    "main.css": "/kittenfriends/static/css/main.7e736c16.css",
+    "main.js": "/kittenfriends/static/js/main.56296d21.js",
+    "static/js/453.d88c1084.chunk.js": "/kittenfriends/static/js/453.d88c1084.chunk.js",
+    "static/media/SEGA.woff": "/kittenfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/kittenfriends/index.html",
+    "main.7e736c16.css.map": "/kittenfriends/static/css/main.7e736c16.css.map",
+    "main.56296d21.js.map": "/kittenfriends/static/js/main.56296d21.js.map",
+    "453.d88c1084.chunk.js.map": "/kittenfriends/static/js/453.d88c1084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c9bc62e.css",
-    "static/js/main.1535dcab.js"
+    "static/css/main.7e736c16.css",
+    "static/js/main.56296d21.js"
   ]
 }
